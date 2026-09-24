@@ -2,16 +2,16 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Amaney Ibrahim
+- Week:4
+- Lab: 02
+- Date: 09/24/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
-- [ ] Yes
+- [X] Yes
 - [ ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
@@ -20,7 +20,7 @@ If yes, complete the sections below. If no, write “No AI tool was used” unde
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
-Tool:
+Tool: 
 
 ## Assistance Requested
 
